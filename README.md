@@ -68,12 +68,12 @@ cd YOLO
 
 For a detailed step-by-step guide including exercises, code walkthroughs, and troubleshooting tips, please refer to the full tutorial document:
 
-📄 [**Download Hands-On Tutorial (PDF)**](https://github.com/TOPR-yoloteam/YOLO/tree/main-1/src/utils/TOPR_TeamD_Hands-On-Tutorial.pdf)
+📄 [**Download Hands-On Tutorial (PDF)**](https://github.com/TOPR-yoloteam/YOLO-Hands-On-Tutorial/blob/main/src/utils/TOPR_TeamD_Hands-On-Tutorial.pdf)
 
 ## 🎴 Promo poster
 
 You can view the promotional poster here:
-![Promo Poster](https://raw.githubusercontent.com/TOPR-yoloteam/YOLO/main-1/src/utils/Promo_Poster_en.pdf)
+![Promo Poster](https://github.com/TOPR-yoloteam/YOLO-Hands-On-Tutorial/blob/main/src/utils/Promo_Poster_en.pdf)
 
 
 
